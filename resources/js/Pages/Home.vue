@@ -1,5 +1,6 @@
+<script setup>
+</script>
+
 <template>
-    <div>
-        <h1 class="bg-red-500 text-3xl">Hello Dark Elan !</h1>
-    </div>
+    <h1>Hello Dark Elan !</h1>
 </template>
