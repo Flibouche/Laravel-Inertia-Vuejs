@@ -3,5 +3,5 @@
 
 <template>
     <Head title=" | Home" />
-    <h1>Hello Dark Elan !</h1>
+    <h1>Hello World !</h1>
 </template>
