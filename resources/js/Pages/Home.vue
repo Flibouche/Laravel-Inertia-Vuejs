@@ -2,6 +2,6 @@
 </script>
 
 <template>
-    <Head title=" | Home" />
-    <h1>Hello World !</h1>
+    <Head :title="` | ${$page.component}`" />
+    <h1>{{ $page.props.auth.user }}</h1>
 </template>
